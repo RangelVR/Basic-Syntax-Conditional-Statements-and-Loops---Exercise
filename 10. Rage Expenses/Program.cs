@@ -22,7 +22,6 @@ Console.WriteLine($"Rage expenses: {expenses:f2} lv.");
 //double keyboardsPrice = double.Parse(Console.ReadLine()) * (lostGames / 6);
 //double displaysPrice = double.Parse(Console.ReadLine()) * (lostGames / 12);
 
-
 //double expenses = headsetsPrice + mousesPrice + keyboardsPrice + displaysPrice;
 
 //Console.WriteLine($"Rage expenses: {expenses:f2} lv.");
